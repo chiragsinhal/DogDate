@@ -1,2 +1,1 @@
-# DogDate
-A Dog Dating site.
+TinDog Starting Files
